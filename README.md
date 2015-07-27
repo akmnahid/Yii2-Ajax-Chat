@@ -1,2 +1,1 @@
-# Yii2-Ajax-Chat
-Yii2 and Ajax Based Chat with Chat Transcript
+Yii2 Ajax Chat With Chat Transcript===================================Yii2 Based Chat Extension Using AjaxInstallation------------The preferred way to install this extension is through [composer](http://getcomposer.org/download/).Either run```php composer.phar require --prefer-dist akmnahid/yii2-ajax-chat "*"```or add```"akmnahid/yii2-ajax-chat": "*"```to the require section of your `composer.json` file.Usage-----Once the extension is installed, simply use it in your code by  :```php<?= \akmnahid\yii2AjaxChat\AutoloadExample::widget(); ?>```
